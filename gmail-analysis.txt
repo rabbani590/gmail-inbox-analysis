@@ -1,0 +1,12 @@
+create dataset from Gmail archive from gmail data and parse dates/times from messages
+
+https://takeout.google.com/?hl=en&utm_source=google-account&utm_medium=web
+
+
+get a list of the dates/times of all the messages in the mbox
+
+Plot the Gmail traffic by date
+Plot the traffic month by month
+Plot the Gmail traffic by the day of the week
+Plot the Gmail traffic by the hour of the day
+Plot the Gmail traffic by the minute of the day
